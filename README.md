@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**gut00/gut00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá meu nome é Augusto Vaz !!! 👋
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](augustoinvaz87@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustoinvaz/)
+[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustoinvaz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=gut00&show_icons=true&theme=onedark)
+
+### 🧑🏽‍💻 Tecnologias: 
+
+<div style= "display: inline_block"><br/>
+
+<img aling= "center" alt="Flutter" src= "	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img aling= "center" alt="Flutter" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img aling= "center" alt="Flutter" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img aling= "center" alt="Flutter" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div>
