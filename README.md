@@ -5,7 +5,11 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustoinvaz/)
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustoinvaz/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut00&theme=midnight-purple&show_icons=true)
+![gut00's Stats](https://github-readme-stats.vercel.app/api?username=gut00&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+
+![gut00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gut00&theme=midnight-purple&hide_border=false)
+
+![gut00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gut00&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 ### 🧑🏽‍💻 Tecnologias: 
 
