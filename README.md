@@ -1,5 +1,5 @@
 
-### Olá meu nome é Augusto Vaz !!! 👋
+### Olá meu nome é Augusto Vaz! 👋
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](augustoinvaz87@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustoinvaz/)
